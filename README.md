@@ -1,4 +1,4 @@
-# RATE
+#  RATE  #
 #Application RATE, the best restaurant rating app
 
 #!!In this file, Things happen!!
