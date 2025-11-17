@@ -1,6 +1,6 @@
 # RATE
-Aplikacija RATE, Najboljši finder restavracij.
-#Tukaj se dogajajo stvari.
+Application RATE, the best restaurant finder imaginable
+#!!In this file, Things happen!!
 
 #CEOS Valentin Rakovnik And Žan Kos.
 
