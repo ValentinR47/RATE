@@ -1,5 +1,6 @@
 # RATE
-Application RATE, the best restaurant finder imaginable
+#Application RATE, the best restaurant finder imaginable
+
 #!!In this file, Things happen!!
 
 #CEOS Valentin Rakovnik And Žan Kos.
